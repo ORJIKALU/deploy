@@ -1975,3 +1975,7 @@ def password_changer():
     error="password changed successfully"
     return render_portfolio(error)
 
+if __name__ == "__main__":
+    __name__()
+    
+    
